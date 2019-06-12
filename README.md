@@ -1,7 +1,7 @@
 ## 605 sentry oauth client 
 
 ### Overview
-This repository contains client code for 605 sentry oauth server. At this moment, it implements implicit-grant- type flow. You can integrate the code into your project or use it as a reference model.
+This repository contains client code for 605 sentry oauth server. At this moment, it implements implicit-grant-type flow. You can integrate the code into your project or use it as a reference model.
 
 ### How to 
 
